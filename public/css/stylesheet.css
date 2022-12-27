@@ -1,0 +1,13 @@
+body {
+    background-color: #CACFD6;
+}
+
+#mainContainer {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+#inputText {
+    width: 400px;
+}
